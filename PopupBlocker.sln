@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopupBlocker", "PopupBlocker\PopupBlocker.csproj", "{3F739A22-47F2-4B40-9558-B5ABF8A1B1E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomControls", "CustomControls\CustomControls.csproj", "{D679BE75-8336-446A-B5AA-9BEC03F0E4D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowEntity", "WindowEntity\WindowEntity.csproj", "{F1B70A04-34C6-49AB-822A-20B74343D3E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormAutoSize", "FormAutoSize\FormAutoSize.csproj", "{974636E2-527C-4567-8DAC-2385B7876427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOperate", "ObjectOperate\ObjectOperate.csproj", "{61EF06CD-711D-4E2B-819D-6F90BD964C66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InitializationData", "InitializationData\InitializationData.csproj", "{69C3F0C4-DBC6-4D63-83BA-7B25BCDE7668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F739A22-47F2-4B40-9558-B5ABF8A1B1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F739A22-47F2-4B40-9558-B5ABF8A1B1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F739A22-47F2-4B40-9558-B5ABF8A1B1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F739A22-47F2-4B40-9558-B5ABF8A1B1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D679BE75-8336-446A-B5AA-9BEC03F0E4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D679BE75-8336-446A-B5AA-9BEC03F0E4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D679BE75-8336-446A-B5AA-9BEC03F0E4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D679BE75-8336-446A-B5AA-9BEC03F0E4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B70A04-34C6-49AB-822A-20B74343D3E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B70A04-34C6-49AB-822A-20B74343D3E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B70A04-34C6-49AB-822A-20B74343D3E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B70A04-34C6-49AB-822A-20B74343D3E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{974636E2-527C-4567-8DAC-2385B7876427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974636E2-527C-4567-8DAC-2385B7876427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974636E2-527C-4567-8DAC-2385B7876427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974636E2-527C-4567-8DAC-2385B7876427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61EF06CD-711D-4E2B-819D-6F90BD964C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61EF06CD-711D-4E2B-819D-6F90BD964C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61EF06CD-711D-4E2B-819D-6F90BD964C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61EF06CD-711D-4E2B-819D-6F90BD964C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C3F0C4-DBC6-4D63-83BA-7B25BCDE7668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C3F0C4-DBC6-4D63-83BA-7B25BCDE7668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C3F0C4-DBC6-4D63-83BA-7B25BCDE7668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C3F0C4-DBC6-4D63-83BA-7B25BCDE7668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
